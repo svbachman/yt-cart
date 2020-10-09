@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "_id":"dress1",
+      "title": "Dress 1",
+      "image": "https://picsum.photos/200",
+      "description":"about dress 1",
+      "price": 19,
+      "availableSizes": ["XL", "XXL"]
+   } ,
+   {
+      "_id":"dress2",
+      "title": "Dress 2",
+      "image": "https://picsum.photos/200",
+      "description":"about dress 1",
+      "price": 19,
+      "availableSizes": ["XL", "XXL"]
+   } ,
+   {
+      "_id":"dress3",
+      "title": "Dress 3",
+      "image": "https://picsum.photos/200",
+      "description":"about dress 1",
+      "price": 19,
+      "availableSizes": ["XL", "XXL"]
+   } ,
+    {
+      "_id":"dress4",
+      "title": "Dress 4",
+      "image": "https://picsum.photos/200",
+      "description":"about dress 1",
+      "price": 19,
+      "availableSizes": ["XL", "XXL"]
+   } ,
+   {
+      "_id":"dress5",
+      "title": "Dress 5",
+      "image": "https://picsum.photos/200",
+      "description":"about dress 1",
+      "price": 19,
+      "availableSizes": ["XL", "XXL"]
+   } ,
+   {
+      "_id":"dress6",
+      "title": "Dress 6",
+      "image": "https://picsum.photos/200",
+      "description":"about dress 1",
+      "price": 19,
+      "availableSizes": ["XL", "XXL"]
+   } 
+ ]
+}

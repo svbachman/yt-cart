@@ -11,10 +11,11 @@
    {
       "_id":"dress2",
       "title": "Dress 2",
-      "image": "https://picsum.photos/500/600/",
+      // "image": "https://picsum.photos/500/600/",
+      "image": "http://satyr.io/200x300",
       "description":"about dress 1",
       "price": 19,
-      "availableSizes": ["XL", "XXL"]
+      "availableSizes": [ "XXL"]
    } ,
    {
       "_id":"dress3",
